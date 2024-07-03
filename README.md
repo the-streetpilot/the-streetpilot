@@ -37,10 +37,10 @@ for Programming & Design. Confident in ability to coordinate events and schedule
 ---
 
 <p align="center">
-<a href="https://varunvinod.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-simplysameen-red?style=flat-square&logo=netlify"></a>
-<a href="https://www.linkedin.com/in/varunvinod-husky/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sameen Sardar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/the_streetpilot_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-simply.sameen-green?style=flat-square&logo=instagram"></a>
-<a href="mailto:the.streetpilot.husky@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sameensardar@gmail.com-yellow?style=flat-square&logo=gmail"></a>
+<a href="https://varunvinod.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-Varun Vinod-red?style=flat-square&logo=netlify"></a>
+<a href="https://www.linkedin.com/in/varun-vinod-husky/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Varun Vinod-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/the_streetpilot_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-the_streetpilot_-green?style=flat-square&logo=instagram"></a>
+<a href="mailto:the.streetpilot.husky@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-the.streetpilot.husky@gmail.com-yellow?style=flat-square&logo=gmail"></a>
 </p>
 <p align="center">
   <a href="https://varunvinod.netlify.app/#contact"><img alt="CContact Form" src="https://img.shields.io/badge/Click Here to Redirect-Contact Form-blue?style=flat-square&logo=contact"></a>
